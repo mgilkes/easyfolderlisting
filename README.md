@@ -3,7 +3,7 @@ Easy Folder Listing
 
 Copyright
 ---------
-* Copyright (C) 2010-2019 Michael Albert Gilkes. All rights reserved.
+* Copyright (C) 2010-2020 Michael Albert Gilkes. All rights reserved.
 * License: GNU/GPL v2
 
 Preamble
