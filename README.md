@@ -1,8 +1,10 @@
 Easy Folder Listing
 ===================
 
-Copyright: Michael A. Gilkes
-License: GNU/GPL v2
+Copyright
+---------
+* Copyright (C) 2010-2019 Michael Albert Gilkes. All rights reserved.
+* License: GNU/GPL v2
 
 Preamble
 --------
