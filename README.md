@@ -6,13 +6,16 @@ Copyright
 * Copyright (C) 2010-2020 Michael Albert Gilkes. All rights reserved.
 * License: GNU/GPL v2
 
+Compatibility
+-------------
+
 Preamble
 --------
 Starting from version 3.0.4, Easy Folder Listing module will made publicly available at GitHub. 
 
 Description
 ------------
-This is a simple-to-use module that is used to list the contents of a folder in either a table or a list. The folder listing can display the filename, with or without the extension, with or without the date modified and file size, as well as a icon representing the file type. It has the feature of allowing the user to specify whether the filename listed should be linked or not.
+This is a simple-to-use module for Joomla that is used to list the contents of a folder in either a table or a list. The folder listing can display the filename, with or without the extension, with or without the date modified and file size, as well as a icon representing the file type. It has the feature of allowing the user to specify whether the filename listed should be linked or not.
 
 Main features
 -------------
