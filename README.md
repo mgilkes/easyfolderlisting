@@ -8,6 +8,7 @@ Copyright
 
 Compatibility
 -------------
+* Joomla! 3.9.x
 
 Preamble
 --------
